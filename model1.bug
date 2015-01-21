@@ -1,0 +1,3 @@
+model1 <- jags_model("model { theta ~ dunif(0, 1)
+y ~ dbin(theta, n)
+}")

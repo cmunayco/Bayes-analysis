@@ -1,2 +1,2 @@
 # Bayes-analysis
-Bayer Analysis in R
+Bayes Analysis in R
